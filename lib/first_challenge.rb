@@ -1,6 +1,5 @@
-def first_challenge
+first_challenge
    epic_tragedy = {
      :montageue => {},
      :capulate => {}
    }
-end
